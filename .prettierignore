@@ -1,0 +1,5 @@
+/dist
+/node_modules
+/uploads
+/apps/mailgun-service/src/templates
+/helm
